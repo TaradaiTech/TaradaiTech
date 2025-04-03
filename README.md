@@ -1,6 +1,7 @@
 # Hello traveler, I'm Mantas
 
 Tech Fixer Turned Data Wrangler  
+                                                                                                                                                                                  ![Uploading 184941-874460311.gif…]()
 
 I started by fixing hardware—reviving laptops, troubleshooting phones, and bringing tech back to life. 
 Now, I apply that same problem-solving mindset to data, *breaking down messy datasets*, *uncovering insights*, and *making sense of numbers* with **Python**, **SQL**, and yes.. a bit of **Excel**. 
