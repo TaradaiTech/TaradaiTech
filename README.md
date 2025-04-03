@@ -16,4 +16,4 @@ Whether it’s repairing circuits or *cleaning up data*, I thrive on solving puz
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-![Snake Animation](https://github.com/<your-username>/<your-username>/blob/output/github-snake.svg)).
+![Snake Animation](https://github.com/<your-username>/<your-username>/blob/output/github-snake.svg)
