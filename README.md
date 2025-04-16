@@ -1,6 +1,6 @@
 # Hello traveler, I'm Mantas
 
-Tech Fixer Turned Data Wrangler  
+`Tech Fixer Turned Data Wrangler`  
 
 
 I started by fixing hardware—reviving laptops, troubleshooting phones, and bringing tech back to life. 
